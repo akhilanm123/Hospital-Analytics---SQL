@@ -2,7 +2,7 @@
 
 This project involves designing, managing, and querying a **hospital database** using **SQL** and **data visualisation** in **Power BI**. The dataset includes patients, physicians, nurses, procedures, rooms, and hospital stays. The project focuses on **data retrieval, analysis, and optimization**.
 
-## 📂 Project Structure
+##  Project Structure
 
 - **SQL-Scripts/**
   - <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/sql.sql">SQLScripts </a> → Contains table creation queries, data insertion queries,SQL queries answering questions.
@@ -11,7 +11,7 @@ This project involves designing, managing, and querying a **hospital database** 
   -  <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/HOSPITAL%20DATABASE%20Information.docx">Hospital_Database_Schema </a> → ER diagram and schema details.
   - <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/Hospital%20Database%20Project%20Report.docx">Project_Report.docx </a> → Detailed explanations of queries.
 
-## 🔍 Key Features
+##  Key Features
 
 - **Full Hospital Database Schema**
 - **Data Insertion Scripts for 50+ Patients & 6 Physicians**  
@@ -23,7 +23,7 @@ This project involves designing, managing, and querying a **hospital database** 
 
 - **PostgreSQL** (Relational Database)
 - **SQL Queries** (Joins, Aggregations, Subqueries)
-- **Power BI/Tableau** (Optional - Data Visualization)
+- **Power BI** (Data Visualization)
 
 ## 📊 Sample Queries
 
