@@ -5,28 +5,24 @@ This project involves designing, managing, and querying a **hospital database** 
 ## 📂 Project Structure
 
 - **SQL-Scripts/**
-  - `create_tables.sql` → Contains table creation queries.
-  - `insert_data.sql` → Contains data insertion queries.
-  - `queries_part1.sql` → SQL queries answering questions 1-25.
-  - `queries_part2.sql` → SQL queries answering questions 26-39.
+  - <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/sql.sql">SQLScripts </a> → Contains table creation queries, data insertion queries,SQL queries answering questions.
 
 - **Documentation/**
-  - `Hospital_Database_Schema.pdf` → ER diagram and schema details.
-  - `Project_Report.docx` → Detailed explanations of queries.
+  -  <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/HOSPITAL%20DATABASE%20Information.docx">Hospital_Database_Schema </a> → ER diagram and schema details.
+  - <a href="https://github.com/akhilanm123/Hospital-Analytics---SQL/blob/main/Hospital%20Database%20Project%20Report.docx">Project_Report.docx </a> → Detailed explanations of queries.
 
 ## 🔍 Key Features
 
-✔ **Full Hospital Database Schema**  
-✔ **Data Insertion Scripts for 50+ Patients & 6 Physicians**  
-✔ **39 SQL Queries for Business Insights**  
-✔ **Joins, Aggregations, and Subqueries Used**  
-✔ **Optimized for Performance**  
+- **Full Hospital Database Schema**
+- **Data Insertion Scripts for 50+ Patients & 6 Physicians**  
+- **39 SQL Queries for Business Insights**  
+- **Joins, Aggregations, and Subqueries Used**  
+- **Optimized for Performance**  
 
 ## 🛠 Technologies Used
 
-- **PostgreSQL / MySQL** (Relational Database)
+- **PostgreSQL** (Relational Database)
 - **SQL Queries** (Joins, Aggregations, Subqueries)
-- **GitHub** (Version Control)
 - **Power BI/Tableau** (Optional - Data Visualization)
 
 ## 📊 Sample Queries
